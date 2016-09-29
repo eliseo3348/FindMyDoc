@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FindMyDoc</string>
+    <string name="dat"></string>
+    <string name="title_activity_solicitarhora">solicitarhora</string>
+
+    //Spinner especialidad
+    <string-array name="planets_array">
+        <item>Seleccione Una Especialidad</item>
+        <item>Medicina Adulto</item>
+        <item>Medicina Infantil</item>
+        <item>Traumatología</item>
+        <item>Neurocirugía</item>
+        <item>Kinesiología</item>
+        <item>Cardiología</item>
+    </string-array>
+
+    //Spinner Centros Medicos
+    <string-array name="centrosmedicos">
+        <item>Seleccione Un Centro Medico</item>
+        <item>Hospital Clínico Universidad de Chile</item>
+        <item>Clínica Santa María</item>
+        <item>Hospital Sotero del Río</item>
+        <item>Clínica Davila</item>
+        <item>Consulta Particular</item>
+    </string-array>
+</resources>
